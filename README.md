@@ -1,5 +1,5 @@
 # Compilador JCC
-#### Joao C Compiler
+#### Joao's C Compiler
 Autor: João Marcos Sampaio André
 
 Licensa: GPL3
