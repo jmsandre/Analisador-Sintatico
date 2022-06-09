@@ -6,10 +6,10 @@ Licensa: GPL3
 
 TO DO
 <ul>
--[] Melhorar Léxico
--[x] Arrumar Sintatico
--[] Meslcar Léxico e Sintático
--[] Organizar e remover arquivos duplicados e inuteis
+ <li>Melhorar Léxico
+ <li>Arrumar Sintatico
+ <li>Meslcar Léxico e Sintático
+ <li>Organizar e remover arquivos duplicados e inuteis
 </ul>
 Analisador Sintático para um compilador baseado em C
 
